@@ -99,8 +99,6 @@ function viewCart() {
    	     if (creditCardNumber){
    	    console.log (`Your total cost is $${total()}, which will be charged to the card ${creditCardNumber}.`)
    	     }
+
+
    	}
-   function emptyCart(itemName) {
- 		  var item = [];
- 		  return emptyCart;
-     }
